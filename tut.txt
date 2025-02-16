@@ -1,3 +1,1 @@
-https://74zvhrlz-kzomoqti-8d6wrwzf4xw0.aca2-preview.marscode.dev
-https://dndjqjrl-pwc5q0iy-g41h6fllwccw.aca2-preview.marscode.dev
-https://4wvz7n9i-5ls4qqo6-lpt9ulqgkhw0.aca2-preview.marscode.dev
+https://sandbox-01ad37d6570d4c9d89c7aaf60e8e2dbc-ethereum-8080.prod-sandbox.chainide.com
